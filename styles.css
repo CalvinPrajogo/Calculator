@@ -1,6 +1,5 @@
 #container {
     display: flex;
-    border: solid black;
     width: 960px;
     height: 960px;
     margin: auto;
@@ -12,4 +11,11 @@
     width: 500px;
     height: 700px;
     margin: auto;
+}
+
+#display {
+    border: solid black;
+    width: 450px;
+    height: 150px;
+    margin: 20px auto;
 }
