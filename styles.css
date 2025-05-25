@@ -1,3 +1,15 @@
 #container {
     display: flex;
+    border: solid black;
+    width: 960px;
+    height: 960px;
+    margin: auto;
+}
+
+#calc-border {
+    display: flex;
+    border: dashed black;
+    width: 500px;
+    height: 700px;
+    margin: auto;
 }
